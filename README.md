@@ -9,10 +9,16 @@
 
 <div>
 
+hello! i'm a british college student based in germany, i've recently started coding and this is my progress so far:
+
 currently learning:
 - python
 - java
 - rust
+
+working on:  
+- [GluckBot](https://github.com/Willibald-Gluck-Gymnasium/gluck-bot)
+- introductory academic research paper in logic‑game development
 #
 
 </div>
