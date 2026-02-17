@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div align="center">
+  
+  ![snake gif](https://github.com/liiachuu/liiachuu/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 <!--
 **liiachuu/liiachuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
