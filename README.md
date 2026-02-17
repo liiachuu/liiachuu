@@ -1,4 +1,5 @@
-## Hi there 👋
+⠀⠀⠀zᶻ  
+≽₍^_ ‸ _ ^₎≼⟆  
 
 <div align="center">
   
@@ -6,6 +7,23 @@
 
 </div>
 
+<div>
+
+currently learning:
+- python
+- java
+- rust
+#
+
+</div>
+
+```
+   
+            /\__/\
+         =( o  o   )=
+           /     \
+          /_|_|_(_-|====,
+```  
 
 <!--
 **liiachuu/liiachuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
