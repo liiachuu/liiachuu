@@ -14,7 +14,10 @@ hello! i'm a british college student based in germany, i've recently started cod
 currently learning:
 - python
 - java
+
+next on the list:
 - rust
+- js, html, css
 
 working on:  
 - [GluckBot](https://github.com/Willibald-Gluck-Gymnasium/gluck-bot)
