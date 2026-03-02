@@ -14,6 +14,7 @@ hello! i'm a british college student based in germany, i've recently started cod
 currently learning:
 - python
 - java
+- flutter
 
 next on the list:
 - rust
