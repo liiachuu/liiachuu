@@ -9,7 +9,7 @@
 
 <div>
 
-hello! i'm a british college student based in germany, i've recently started coding and this is my progress so far:
+hello! i'm a british college student in germany, i've recently started coding and this is my progress so far:
 
 currently learning:
 - python
